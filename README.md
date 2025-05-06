@@ -31,10 +31,8 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/3abf66dc-74f2-4bfd-a6d1-75fbb8ac87ab)
-
-### Output:
-![image](https://github.com/user-attachments/assets/13a8ecea-d745-44dc-a179-b9c22340521e)
+![image](https://github.com/user-attachments/assets/ec4855e1-8587-44d1-b681-3c51b9985e39)
+![image](https://github.com/user-attachments/assets/a74511bc-0dc1-4b4c-9a19-67e47fabfba2)
 
 
 ### Name:  KISHORE M
